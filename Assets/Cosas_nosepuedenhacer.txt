@@ -1,0 +1,7 @@
+No se puede añadir mirilla ya que GUImage está obsoleto.
+
+Vídeo 15, AI no funciona el navigation igual que en el video
+
+no existe el motion pack (movimientos personaje)
+
+laseres no funciona
